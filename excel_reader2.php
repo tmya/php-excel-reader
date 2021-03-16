@@ -1,4 +1,13 @@
 <?php
+/*
+ * I'll provide workaround for not working on PHP 7.x.
+ *
+ * Akio Tomita < https://tmya.github.io/ >
+ * 
+ * [Change log]
+ * 2021/03/16 Changed some function and operator to made available to PHP 7.x.
+ * 
+ */
 /**
  * A class for reading Microsoft Excel (97/2003) Spreadsheets.
  *
